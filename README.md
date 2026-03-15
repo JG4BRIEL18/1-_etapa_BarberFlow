@@ -6,7 +6,11 @@ Alunos: João Gabriel Cavalcante de Oliveira Santos(líder), Isaque Batista da S
 
 Páginas:
 Introdução do site: index.html
+
 Login / entrar: login.html
+
 Cadastrar / criar conta: cadastro.html
+
 Função modo noturno do site: script.js
+
 Design do site: style.css (pode sofrer futuras alterações!)
