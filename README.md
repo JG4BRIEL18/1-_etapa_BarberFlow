@@ -3,10 +3,6 @@ Projeto BarberFlow / 1° etapa do projeto!
 
 Alunos: João Gabriel Cavalcante de Oliveira Santos(líder), Isaque Batista da Silva Cabral, Thiago Minervino Pereira Dos Santos De Araújo e Felipe Augusto de Amorim Santos
 
-Códigos do site (BarberFlow) no link do Github
-Link do projeto no GitHub abaixo:
-Caso não funcione fale comigo (João Gabriel)!!
-
 
 Páginas:
 Introdução do site: index.html
